@@ -11,7 +11,7 @@ An advanced population forecasting system that uses the CatBoost machine learnin
 - **Detailed Reporting**: Generates comprehensive population statistics and growth metrics
 - **Model Performance Analysis**: Includes detailed metrics and feature importance rankings
 
-## Optimized Project Structure
+## Project Structure
 
 ```
 population_forecasting/
@@ -65,7 +65,6 @@ This will:
 4. Create visualizations and detailed reports
 5. Save results to the 'forecasts' directory
 
-## Sample Output
 
 ### Population Forecast Summary
 ```
@@ -91,8 +90,4 @@ The enhanced CatBoost implementation significantly improves forecast accuracy by
 |--------|-------|
 | MAE    | 25,412 |
 | RMSE   | 31,889 |
-| R²     | 0.9874 |
-
-## License
-
-MIT License 
+| R²     | 0.9874 | 
