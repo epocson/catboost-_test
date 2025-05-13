@@ -4,6 +4,9 @@ catboost_info/
 # Image files
 *.png
 
+# Original population_forecasting copy (local only)
+population_forecasting/
+
 # Python specific
 __pycache__/
 *.py[cod]
